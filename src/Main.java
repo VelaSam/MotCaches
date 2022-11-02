@@ -1,3 +1,16 @@
+/*********************************************************************************************
+ ___                  _      ___   _____  ___
+ |  _`\               ( )    (  _`\(_   _)(  _`\
+ | (_) )   _      ___ | |/') | (_(_) | |  | (_(_)
+ | ,  /  /'_`\  /'___)| , <  |  _)_  | |  `\__ \
+ | |\ \ ( (_) )( (___ | |\`\ | (_( ) | |  ( )_) |
+ (_) (_)`\___/'`\____)(_) (_)(____/' (_)  `\____)
+ Copyright (c) 2022-2023
+ RockETS, Montreal
+ Ecole de Technologie Superieure
+ File: Main.java
+ By: Samuel Velasco
+ *********************************************************************************************/
 import modele.MotCache;
 import modele.Tableau;
 import vue.generateurMotCroise.GenerateurMotCroise;
@@ -5,6 +18,7 @@ import vue.listeMots.InterfaceGetListeMots;
 
 import javax.swing.*;
 import java.util.*;
+
 
 
 public class Main {
@@ -16,10 +30,10 @@ public class Main {
         //S'il te plait ne va pas essayer de lire le code si tu tiens à ta santé mentale :D
 
         //Rentrer le nom du Club
-        String nomDuClub = "Naova";
+        String nomDuClub = "RockETS";
 
         //Rentrer le thème du Mot Caché
-        String theme = "Sur le thème de la robotique";
+        String theme = "Sur le thème de l'aérospatial";
 
         //Entrer tous les mots que vous voulez avoir dans le mot caché. Déconseille d'avoir plus que 15 mots.
         //Ne pas mettre de mots plus longs que 14 caractères
