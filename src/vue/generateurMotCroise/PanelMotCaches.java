@@ -5,7 +5,6 @@
  | ,  /  /'_`\  /'___)| , <  |  _)_  | |  `\__ \
  | |\ \ ( (_) )( (___ | |\`\ | (_( ) | |  ( )_) |
  (_) (_)`\___/'`\____)(_) (_)(____/' (_)  `\____)
- Copyright (c) 2022-2023
  RockETS, Montreal
  Ecole de Technologie Superieure
  File: PanelMotCaches.java

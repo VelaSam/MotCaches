@@ -5,7 +5,6 @@
  | ,  /  /'_`\  /'___)| , <  |  _)_  | |  `\__ \
  | |\ \ ( (_) )( (___ | |\`\ | (_( ) | |  ( )_) |
  (_) (_)`\___/'`\____)(_) (_)(____/' (_)  `\____)
- Copyright (c) 2022-2023
  RockETS, Montreal
  Ecole de Technologie Superieure
  File: Main.java
@@ -37,17 +36,16 @@ public class Main {
 
         //Entrer tous les mots que vous voulez avoir dans le mot caché. Déconseille d'avoir plus que 15 mots.
         //Ne pas mettre de mots plus longs que 14 caractères
-        mots.add(new MotCache("CALIBRE"));
-        mots.add(new MotCache("VITESSE"));
-        mots.add(new MotCache("AVIONIQUE"));
-        mots.add(new MotCache("AILETTES"));
-        mots.add(new MotCache("PROPULSION"));
-        mots.add(new MotCache("APOLLO"));
-        mots.add(new MotCache("AERODYNAMIQUE"));
-        mots.add(new MotCache("SATELLITE"));
-        mots.add(new MotCache("AARLUK"));
-        mots.add(new MotCache("PARACHUTE"));
+
+        mots.add(new MotCache("VOIURE"));
+
+        mots.add(new MotCache("MERCEDES"));
+        mots.add(new MotCache("FUSEE"));
         mots.add(new MotCache("MOTEUR"));
+        mots.add(new MotCache("DOMINATION"));
+        mots.add(new MotCache("VITESSE"));
+        mots.add(new MotCache("TABARNAK"));
+
 
 
 
